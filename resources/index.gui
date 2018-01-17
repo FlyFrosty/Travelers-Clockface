@@ -1,0 +1,12 @@
+
+
+<svg class="background">
+  <image id="myImage" />
+  <text id="myLabel" />
+  <text id="myUTCLabel" pointer-events="visible"/>
+  <text id="myCal" pointer-events="visible"/>
+  <text id="today" pointer-events="visible"/>
+  <text id="mySteps" pointer-events="visible"/>
+
+</svg>
+
